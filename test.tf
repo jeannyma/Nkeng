@@ -1,0 +1,1 @@
+Contributing to git project test file
